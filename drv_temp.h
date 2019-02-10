@@ -32,14 +32,6 @@
 
 #define MASTER_CLOCK_SPEED 				100000
 
-/* Driver Template status enumerations 
-typedef enum {
-	//DRV_TEMP_OK,
-	//DRV_TEMP_ERROR,
-	//DRV_TEMP_CONNECTION_ERROR,
-	//DRV_TEMP_TIMEOUT_ERROR,
-} DRV_TEMP_t;*/
-
 
 /* Driver Template condif structure */
 typedef struct {
